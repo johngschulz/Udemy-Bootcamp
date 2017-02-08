@@ -1,0 +1,23 @@
+h1 {
+
+	border: 8px dashed rgb(255, 100, 00);
+}
+
+/*width
+color
+style*/
+
+
+li{ 
+	color: green;
+ }
+ h4 {
+ 	background: rgb(255, 100, 00);
+ }
+ body{
+ 	background: lightblue;
+
+/* 	background: url(http://cpsresources.com/wp-content/uploads/2014/12/9436-Matte-Woodgrain-Matte.jpg);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;*/
+ }
